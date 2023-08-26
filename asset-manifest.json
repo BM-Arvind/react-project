@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google-Books-ReactApp/static/css/main.9f075dce.css",
+    "main.js": "/Google-Books-ReactApp/static/js/main.e7647f94.js",
+    "index.html": "/Google-Books-ReactApp/index.html",
+    "main.9f075dce.css.map": "/Google-Books-ReactApp/static/css/main.9f075dce.css.map",
+    "main.e7647f94.js.map": "/Google-Books-ReactApp/static/js/main.e7647f94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f075dce.css",
+    "static/js/main.e7647f94.js"
+  ]
+}
